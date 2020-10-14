@@ -2,7 +2,7 @@
 
 A Compass Android app that tests a phone's accelerometer by a user's taps or flings on the screen.
 
-# Usage
+## Usage
 
 Android Studio version 3.4.1 or higher
 
